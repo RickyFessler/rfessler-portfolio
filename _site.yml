@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fab fa-linkedin ## Use fontawesome.com to get these.
+      href: "https://www.linkedin.com/in/richard-fessler-019020a3/"
 output: distill::distill_article

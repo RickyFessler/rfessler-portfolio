@@ -4,7 +4,6 @@ description: |
   Some additional details about the website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+This website was created using [Distill for R Markdown](https://rstudio.github.io/distill/) and hosted by [GitHub Pages](https://pages.github.com/).
 
+Website last updated: `r as.Date(Sys.Date(), "mm/dd/yyyy")`
