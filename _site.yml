@@ -1,5 +1,6 @@
 name: "distill-project"
 title: "Ricky Fessler"
+theme: theme.css ## Add this if you want to make a css affect the WHOLE site. I can't get the CSS to work though.
 description: |
   Welcome to Ricky Fessler's website
 output_dir: "docs"
@@ -7,7 +8,9 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About Me"
+      href: aboutme.html
+    - text: "Credits"
       href: about.html
     - icon: fab fa-linkedin ## Use fontawesome.com to get these.
       href: "https://www.linkedin.com/in/richard-fessler-019020a3/"
