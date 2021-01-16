@@ -1,8 +1,7 @@
 name: "distill-project"
-title: "Ricky Fessler"
-theme: theme.css ## Add this if you want to make a css affect the WHOLE site. I can't get the CSS to work though.
+title: "Portfolio of Ricky Fessler"
+theme: "theme.css" ## Add this if you want to make a css affect the WHOLE site. I can't get the CSS to work though.
 description: |
-  Welcome to Ricky Fessler's website
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +9,24 @@ navbar:
       href: index.html
     - text: "About Me"
       href: aboutme.html
+    - text: "Works"
+      href: works.html
     - text: "Credits"
       href: about.html
     - icon: fab fa-linkedin ## Use fontawesome.com to get these.
       href: "https://www.linkedin.com/in/richard-fessler-019020a3/"
+    - icon: fab fa-twitter-square
+      href: "https://twitter.com/RickyFess"
 output: distill::distill_article
+
+
+## To Do:
+## Embed image successfully, left aligned from the text
+## Finish the "About me" section
+## Do research on how a professional portfolio website looks like
+## Get the css file to work
+## Should I add a place to download my resume? Should I create a page with my resume information on it?
+## Do I have any examples of work I can present? (I could probably use that Bread data example)
+## With regards to Github, should I be worried about any privacy-related stuff?
+## Contact Me (LinkedIn may be enough but I might include my email or if I make a Twitter)
+## Testimonials?

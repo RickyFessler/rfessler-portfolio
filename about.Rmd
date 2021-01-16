@@ -1,9 +1,10 @@
 ---
-title: "About this site"
+title: "Credits"
 description: |
-  Some additional details about the website
 ---
 
 This website was created using [Distill for R Markdown](https://rstudio.github.io/distill/) and hosted by [GitHub Pages](https://pages.github.com/).
+
+Icons acquired from the great [Font Awesome](https://fontawesome.com) website. I do not claim ownership.
 
 Website last updated: `r as.Date(Sys.Date(), "mm/dd/yyyy")`

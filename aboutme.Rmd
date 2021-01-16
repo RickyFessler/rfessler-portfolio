@@ -1,7 +1,30 @@
 ---
-title: "About the Author" ## Can't have title tabbed out at all. Interesting.
-description: |
-  Some additional details about Ricky
+title: "About Me" ## Can't have title tabbed out at all. Interesting.
+description: | ## The description: | piece needs to stay, but it generates no description and Distill is smart enough to accommodate.
 ---
 
-Test
+<!-- ## Gotta figure out how to resize an image within R. -->
+```{r echo = FALSE, message = FALSE}
+library(knitr)
+```
+
+
+<div class = "clear">
+</div>
+<div class = "pull-left">
+<img style = "float: left;" src="images/Ricky Photo 23.jpg" width="200" height="300">
+</div>
+
+<!-- ```{r echo = FALSE, out.width = "25%"} -->
+<!-- include_graphics("images/Ricky Photo 23.jpg") -->
+<!-- ``` -->
+
+<!-- Unfortunately it looks impossible to have an image and then wrap-around text. Oh well. -->
+
+Hi, my name is Ricky Fessler and thank you for visiting my website! I've been a native of Pennsylvania for all of my life. Growing up, mathematics, statistics, and computers have always been my interest. Earning distinguished graduate status from Hazleton Area High School in 2013 as well as being a member of the Honors Society & German Honors Society, I proceeded to join the Penn State family, originally studying business and actuarial science. In 2016, I realized my true passion and acquired my Bachelors of Science in Mathematics in December 2017 with a minor in statistics. One day I aspire to achieve a higher dergee in statistics, data analytics or data science, or maybe become a travel writer.
+
+On a professional level, I enjoy working with data in many ways: Cleaning/manipulating the data, creating visualizations with RStudio or Power BI to tell a story, automating workflow processes, and performing research. I performed research in my sophomore year of university to explain the uses of Neodymium and its ever increasing impact on the technologically progressive world, presenting his research to professors and successfully raising awareness within my community. I also enjoy mentoring others and encouraging the learning process, tutoring in mathematics and statistics for a year at university, and teaching skills on the job to interns and new coworkers alike that will carry them not just outside the classroom, but in real life applications too.
+
+When I am not busy playing with data, doing research, building reports or mentoring others, you can find me enjoying a good book (Fantasy especially), cooking up some good food from time to time, planning a new "design" project within my living space, hiking, checking out some antique, thrift and flea markets, or playing a good game.
+
+If you'd like to have a chat with me, please check out my LinkedIn or Twitter up above!

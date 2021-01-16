@@ -1,8 +1,7 @@
 ---
-title: "Ricky Fessler's Portfolio"
+title: "Ricky Fessler's Portfolio Homepage"
 description: |
-  Welcome to my portfolio.
 site: distill::distill_website
 ---
 
-Welcome to my website. Currently a work in progress as I learn Distill & Git!
+Welcome to the website of Richard (Ricky) Fessler.

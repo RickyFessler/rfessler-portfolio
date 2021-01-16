@@ -1,0 +1,7 @@
+---
+title: "Ricky Fessler's Works"
+description: |
+site: distill::distill_website
+---
+
+Currently a work in progress. Please visit my LinkedIn in the meantime!
